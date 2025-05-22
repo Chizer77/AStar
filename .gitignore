@@ -1,0 +1,12 @@
+.cph
+.autocp
+.idea
+.vscode
+build/
+
+CMakeLists.txt
+CMakeCache.txt
+CMakeFiles/
+CMakeUserPresets.json
+
+*.exe
