@@ -16,11 +16,11 @@ using namespace std;
 int T;
 
 void solve() {
-    
+
 }
 
-int main () {
-    ios:: sync_with_stdio(false);
+int main() {
+    ios::sync_with_stdio(false);
     cin.tie(nullptr), cout.tie(nullptr);
     T = 1;
     // cin >> T;

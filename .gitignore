@@ -3,6 +3,7 @@
 .idea
 .vscode
 build/
+cmake-build-debug/
 
 CMakeLists.txt
 CMakeCache.txt
